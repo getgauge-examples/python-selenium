@@ -9,10 +9,10 @@ This project uses
 # Concepts covered
 
 - Use [Webdriver](http://docs.seleniumhq.org/projects/webdriver/) as base of implementation
-- [Concepts](http://getgauge.io/documentation/user/current/specifications/concepts.html)
-- [Specification](http://getgauge.io/documentation/user/current/gauge_terminologies/specifications.html), [Scenario](http://getgauge.io/documentation/user/current/specifications/scenarios.html) & [Step](http://getgauge.io/documentation/user/current/specifications/steps.html) usage
-- [Table driven execution](http://getgauge.io/documentation/user/current/execution/table_driven_execution.html)
-- [External datasource (special param)](http://getgauge.io/documentation/user/current/specifications/parameters.html#special-parameters)
+- [Concepts](https://docs.gauge.org/latest/writing-specifications.html#concept)
+- [Specification](https://docs.gauge.org/latest/writing-specifications.html#specifications-spec), [Scenario](https://docs.gauge.org/latest/writing-specifications.html#longstart-scenarios) & [Step](https://docs.gauge.org/latest/writing-specifications.html#longstart-steps) usage
+- [Table driven execution](https://docs.gauge.org/latest/execution.html#data-driven-execution)
+- [External datasource (special param)](https://docs.gauge.org/latest/execution.html#external-csv-for-data-table)
 
 # Prerequisites
 - Python 3
