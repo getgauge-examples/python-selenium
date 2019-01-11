@@ -17,12 +17,8 @@ This project uses
 # Prerequisites
 - Python 3
 - [Java 1.7](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html). [Required to bring up the [SUT](#setting-up-the-system-under-test-sut)
-- [Install Gauge](http://getgauge.io/download.html)
-  - Homebrew on Mac OS X :  
-      ```
-      brew install gauge
-      ```
-  - [Download Installer](http://getgauge.io/download.html)
+- [Install Gauge](https://docs.gauge.org/latest/installation.html)
+
 - [Install Gauge-Python plugin](https://gauge-python.readthedocs.io/en/latest/installation.html) by running<br>
 ```
 gauge --install python
