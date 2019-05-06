@@ -21,7 +21,7 @@ This project uses
 
 - [Install Gauge-Python plugin](https://gauge-python.readthedocs.io/en/latest/installation.html) by running<br>
 ```
-gauge --install python
+gauge install python
 [pip / pip3] install getgauge
 ```
 - Google Chrome
@@ -52,6 +52,6 @@ Run the following command to install chromedriver, if it fails then download it 
 
 ### All specs
 ````
-gauge specs
+gauge run specs
 ````
 This will also compile all the supporting code implementations.
